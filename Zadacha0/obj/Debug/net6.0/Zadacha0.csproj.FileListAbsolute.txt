@@ -1,0 +1,15 @@
+C:\Users\79046\Desktop\языки Семинар\seminar1_leng\Zadacha0\bin\Debug\net6.0\Zadacha0.exe
+C:\Users\79046\Desktop\языки Семинар\seminar1_leng\Zadacha0\bin\Debug\net6.0\Zadacha0.deps.json
+C:\Users\79046\Desktop\языки Семинар\seminar1_leng\Zadacha0\bin\Debug\net6.0\Zadacha0.runtimeconfig.json
+C:\Users\79046\Desktop\языки Семинар\seminar1_leng\Zadacha0\bin\Debug\net6.0\Zadacha0.dll
+C:\Users\79046\Desktop\языки Семинар\seminar1_leng\Zadacha0\bin\Debug\net6.0\Zadacha0.pdb
+C:\Users\79046\Desktop\языки Семинар\seminar1_leng\Zadacha0\obj\Debug\net6.0\Zadacha0.csproj.AssemblyReference.cache
+C:\Users\79046\Desktop\языки Семинар\seminar1_leng\Zadacha0\obj\Debug\net6.0\Zadacha0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79046\Desktop\языки Семинар\seminar1_leng\Zadacha0\obj\Debug\net6.0\Zadacha0.AssemblyInfoInputs.cache
+C:\Users\79046\Desktop\языки Семинар\seminar1_leng\Zadacha0\obj\Debug\net6.0\Zadacha0.AssemblyInfo.cs
+C:\Users\79046\Desktop\языки Семинар\seminar1_leng\Zadacha0\obj\Debug\net6.0\Zadacha0.csproj.CoreCompileInputs.cache
+C:\Users\79046\Desktop\языки Семинар\seminar1_leng\Zadacha0\obj\Debug\net6.0\Zadacha0.dll
+C:\Users\79046\Desktop\языки Семинар\seminar1_leng\Zadacha0\obj\Debug\net6.0\refint\Zadacha0.dll
+C:\Users\79046\Desktop\языки Семинар\seminar1_leng\Zadacha0\obj\Debug\net6.0\Zadacha0.pdb
+C:\Users\79046\Desktop\языки Семинар\seminar1_leng\Zadacha0\obj\Debug\net6.0\Zadacha0.genruntimeconfig.cache
+C:\Users\79046\Desktop\языки Семинар\seminar1_leng\Zadacha0\obj\Debug\net6.0\ref\Zadacha0.dll
